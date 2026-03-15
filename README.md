@@ -2,7 +2,7 @@
 
 **Data architect. Product builder.**
 
-Currently leading data initiatives at [sensr.ai](https://sensr.ai), turning raw data into actionable products.
+Leading data initiatives at [sensr.ai](https://sensr.ai), turning raw data into actionable products.
 
 ---
 
@@ -11,20 +11,20 @@ Currently leading data initiatives at [sensr.ai](https://sensr.ai), turning raw 
 **[sensr.ai](https://sensr.ai)**
 Data solutions for operational efficiency. Dashboarding and AI/ML models.
 
-**[Tipp](https://tipp.so)**
+**[tipp](https://tipp.so)**
 Read-later meets newsletter.
 
-**[Foodsnap](https://foodsnap.eu)**
+**[foodsnap](https://foodsnap.eu)**
 Snap food, track nutrition.
 
-**[Open Assistant](https://open-assistant.org)**
+**[open assistant](https://open-assistant.org)**
 Open-source conversational AI.
 
 ---
 
 ## About
 
-I build data systems that work and products that ship. Currently focused on sensr.ai while spinning up side-projects on nights and weekends. Build fast, learn faster, iterate always.
+I love building solutions that turn data into actionable insights. Helping industrial companies to make operations and assets smarter by day, developing new ideas by night. Always building, always learning.
 
 ---
 
