@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Oli.
+# Hello, I'm Oli.
 
 **Data architect. Product builder.**
 
