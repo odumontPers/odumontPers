@@ -9,7 +9,7 @@ Currently leading data initiatives at [sensr.ai](https://sensr.ai), turning raw 
 ## Work
 
 **[sensr.ai](https://sensr.ai)**
-Data solutions for operational efficiency—dashboards and AI models.
+Data solutions for operational efficiency. Dashboarding and AI/ML models.
 
 **[Tipp](https://tipp.so)**
 Read-later meets newsletter.
