@@ -1,11 +1,3 @@
-# Hello, I'm Oli.
-
-**Data architect. Product builder.**
-
-Leading data initiatives at [sensr.ai](https://sensr.ai), turning raw data into actionable products.
-
----
-
 ## Work
 
 **[sensr.ai](https://sensr.ai)**
