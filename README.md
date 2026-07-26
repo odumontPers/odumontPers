@@ -1,5 +1,8 @@
 ## Work
 
+**[open assistant](https://github.com/open-assistant-org/open-assistant)**
+Open-source conversational AI.
+
 **[sensr.ai](https://sensr.ai)**
 Data solutions for operational efficiency. Dashboarding and AI/ML models.
 
@@ -8,9 +11,6 @@ Read-later meets newsletter.
 
 **[foodsnap](https://foodsnap.eu)**
 Snap food, track nutrition.
-
-**[open assistant](https://open-assistant.org)**
-Open-source conversational AI.
 
 ---
 
